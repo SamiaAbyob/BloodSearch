@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#E60404"
+    android:padding="10dp"
+    tools:context=".FourActivity">
+
+    <TextView
+        android:textSize="30dp"
+        android:paddingLeft="10dp"
+        android:layout_gravity="center"
+        android:textAlignment="center"
+        android:text="Find Blood"
+        android:textColor="#FFFFFF"
+        android:textStyle="bold"
+        android:layout_margin="40dp"
+
+        />
+
+
+    <TableRow>
+        <TextView
+            android:layout_height="20dp"
+            android:textSize="15dp"
+            android:textColor="#FFFFFF"
+            android:paddingRight="5dp"
+            android:paddingLeft="5dp"
+
+            android:text="Name"
+            android:textStyle="bold"
+            />
+        <TextView
+            android:layout_height="20dp"
+            android:textSize="15dp"
+            android:textColor="#FFFFFF"
+            android:paddingLeft="5dp"
+            android:paddingRight="5dp"
+            android:text="Blood Group"
+            android:textStyle="bold"
+            />
+        <TextView
+            android:layout_height="20dp"
+            android:textSize="15dp"
+            android:textColor="#FFFFFF"
+            android:paddingLeft="5dp"
+            android:paddingRight="5dp"
+            android:text="Phone Number"
+            android:textStyle="bold"
+            />
+        <TextView
+            android:layout_height="20dp"
+            android:textSize="15dp"
+            android:textColor="#FFFFFF"
+            android:paddingLeft="5dp"
+            android:paddingRight="5dp"
+            android:text="Address"
+            android:textStyle="bold"
+            />
+    </TableRow>
+
+    <TableRow>
+        <TextView
+            android:layout_height="20dp"
+            android:textSize="15dp"
+            android:textColor="#FFFFFF"
+            android:paddingRight="5dp"
+            android:paddingLeft="5dp"
+            android:text="Abyob"
+
+            />
+        <TextView
+            android:layout_height="20dp"
+            android:textSize="15dp"
+            android:textColor="#FFFFFF"
+            android:paddingLeft="5dp"
+            android:paddingRight="5dp"
+            android:text="B+"
+            />
+        <TextView
+            android:layout_height="20dp"
+            android:textSize="15dp"
+            android:textColor="#FFFFFF"
+            android:paddingLeft="5dp"
+            android:paddingRight="5dp"
+            android:text="0155000000"
+
+            />
+        <TextView
+            android:layout_height="20dp"
+            android:textSize="15dp"
+            android:textColor="#FFFFFF"
+            android:paddingLeft="5dp"
+            android:paddingRight="5dp"
+            android:text="Bailyroad"
+
+            />
+    </TableRow>
+
+    <TableRow>
+        <TextView
+            android:layout_height="20dp"
+            android:textSize="15dp"
+            android:textColor="#FFFFFF"
+            android:paddingRight="5dp"
+            android:paddingLeft="5dp"
+            android:text="Priota"
+
+            />
+        <TextView
+            android:layout_height="20dp"
+            android:textSize="15dp"
+            android:textColor="#FFFFFF"
+            android:paddingLeft="5dp"
+            android:paddingRight="5dp"
+            android:text="AB+"
+            />
+        <TextView
+            android:layout_height="20dp"
+            android:textSize="15dp"
+            android:textColor="#FFFFFF"
+            android:paddingLeft="5dp"
+            android:paddingRight="5dp"
+            android:text="0155000011"
+
+            />
+        <TextView
+            android:layout_height="20dp"
+            android:textSize="15dp"
+            android:textColor="#FFFFFF"
+            android:paddingLeft="5dp"
+            android:paddingRight="5dp"
+            android:text="Ajimpur"
+
+            />
+    </TableRow>
+
+    <TableRow>
+        <TextView
+            android:layout_height="20dp"
+            android:textSize="15dp"
+            android:textColor="#FFFFFF"
+            android:paddingRight="5dp"
+            android:paddingLeft="5dp"
+            android:text="Mustofa"
+
+            />
+        <TextView
+            android:layout_height="20dp"
+            android:textSize="15dp"
+            android:textColor="#FFFFFF"
+            android:paddingLeft="5dp"
+            android:paddingRight="5dp"
+            android:text="A+"
+            />
+        <TextView
+            android:layout_height="20dp"
+            android:textSize="15dp"
+            android:textColor="#FFFFFF"
+            android:paddingLeft="5dp"
+            android:paddingRight="5dp"
+            android:text="017777700"
+
+            />
+        <TextView
+            android:layout_height="20dp"
+            android:textSize="15dp"
+            android:textColor="#FFFFFF"
+            android:paddingLeft="5dp"
+            android:paddingRight="5dp"
+            android:text="Lalbag"
+
+            />
+    </TableRow>
+
+    <TableRow>
+        <TextView
+            android:layout_height="20dp"
+            android:textSize="15dp"
+            android:textColor="#FFFFFF"
+            android:paddingRight="5dp"
+            android:paddingLeft="5dp"
+            android:text="Ahnaf"
+
+            />
+        <TextView
+            android:layout_height="20dp"
+            android:textSize="15dp"
+            android:textColor="#FFFFFF"
+            android:paddingLeft="5dp"
+            android:paddingRight="5dp"
+            android:text="O+"
+            />
+        <TextView
+            android:layout_height="20dp"
+            android:textSize="15dp"
+            android:textColor="#FFFFFF"
+            android:paddingLeft="5dp"
+            android:paddingRight="5dp"
+            android:text="0188800000"
+
+            />
+        <TextView
+            android:layout_height="20dp"
+            android:textSize="15dp"
+            android:textColor="#FFFFFF"
+            android:paddingLeft="5dp"
+            android:paddingRight="5dp"
+            android:text="Kolabagan"
+
+            />
+    </TableRow>
+
+    <TableRow>
+        <TextView
+            android:layout_height="20dp"
+            android:textSize="15dp"
+            android:textColor="#FFFFFF"
+            android:paddingRight="5dp"
+            android:paddingLeft="5dp"
+            android:text="Samia"
+
+            />
+        <TextView
+            android:layout_height="20dp"
+            android:textSize="15dp"
+            android:textColor="#FFFFFF"
+            android:paddingLeft="5dp"
+            android:paddingRight="5dp"
+            android:text="B+"
+            />
+        <TextView
+            android:layout_height="20dp"
+            android:textSize="15dp"
+            android:textColor="#FFFFFF"
+            android:paddingLeft="5dp"
+            android:paddingRight="5dp"
+            android:text="0171733455"
+
+            />
+        <TextView
+            android:layout_height="20dp"
+            android:textSize="15dp"
+            android:textColor="#FFFFFF"
+            android:paddingLeft="5dp"
+            android:paddingRight="5dp"
+            android:text="Santinagor"
+
+            />
+    </TableRow>
+
+
+    <Button
+        android:id="@+id/locatiobButton"
+        android:layout_below="@+id/textViewId4"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:text="Location"
+        android:textSize="20dp"
+        android:layout_gravity="center"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:layout_marginTop="180dp"
+        android:background="#880505"
+        android:textColor="#FFFFFF"/>
+
+</TableLayout>

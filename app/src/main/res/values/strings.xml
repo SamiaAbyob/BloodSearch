@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Blood Search</string>
+    <string name="text1">Blood Search</string>
+    <string name="edit1">username</string>
+    <string name="edit2">password</string>
+    <string name="loginbutton">Login</string>
+    <string name="signupbutton">Sign Up</string>
+
+    <string name="text2">Create your  your account</string>
+    <string name="edit3">Blood Group</string>
+    <string name="edit4">Phone Number</string>
+    <string name="edit5">Address</string>
+
+    <string name="text3">Your Information</string>
+
+
+</resources>
